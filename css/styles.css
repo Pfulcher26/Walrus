@@ -1,0 +1,12 @@
+.walrus-showing {
+    display: none;
+}
+
+p{
+    cursor: pointer;
+    color: palevioletred;
+}
+
+p:hover {
+    text-decoration: underline;
+}
